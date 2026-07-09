@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
