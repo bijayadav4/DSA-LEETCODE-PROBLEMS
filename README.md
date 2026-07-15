@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
