@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0342-power-of-four) |
 ## Design
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
