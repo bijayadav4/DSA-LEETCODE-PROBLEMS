@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0342-power-of-four) |
 ## Design
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
