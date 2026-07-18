@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0237-delete-node-in-a-linked-list) |
