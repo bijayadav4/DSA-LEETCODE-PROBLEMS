@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
