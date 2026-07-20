@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
