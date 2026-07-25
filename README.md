@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1929-concatenation-of-array) |
 ## Data Stream
