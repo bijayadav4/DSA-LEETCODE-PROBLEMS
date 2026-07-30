@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0933-number-of-recent-calls) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
