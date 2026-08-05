@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
