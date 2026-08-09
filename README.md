@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [1052-grumpy-bookstore-owner](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
