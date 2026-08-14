@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1991-find-the-middle-index-in-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
