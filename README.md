@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 | Problem Name | Difficulty |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
