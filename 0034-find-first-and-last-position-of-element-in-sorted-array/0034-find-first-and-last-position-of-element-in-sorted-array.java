@@ -1,26 +1,27 @@
 class Solution {
-
     public int[] searchRange(int[] nums, int target) {
+        int first = findPosition(nums, target, true);
+        int last = findPosition(nums, target, false);
 
-        return new int[]{
-                firstPosition(nums, target),
-                lastPosition(nums, target)
-        };
+        return new int[]{first, last};
     }
 
-    private int firstPosition(int[] nums, int target) {
-
+    public int findPosition(int[] nums, int target, boolean findFirst) {
         int left = 0;
         int right = nums.length - 1;
-        int ans = -1;
+        int answer = -1;
 
         while (left <= right) {
-
             int mid = left + (right - left) / 2;
 
             if (nums[mid] == target) {
-                ans = mid;
-                right = mid - 1;      // search left
+                answer = mid;
+
+                if (findFirst) {
+                    right = mid - 1;
+                } else {
+                    left = mid + 1;
+                }
             } else if (nums[mid] < target) {
                 left = mid + 1;
             } else {
@@ -28,29 +29,6 @@ class Solution {
             }
         }
 
-        return ans;
-    }
-
-    private int lastPosition(int[] nums, int target) {
-
-        int left = 0;
-        int right = nums.length - 1;
-        int ans = -1;
-
-        while (left <= right) {
-
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                left = mid + 1;  
-            } else if (nums[mid] < target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
-        }
-
-        return ans;
+        return answer;
     }
 }
