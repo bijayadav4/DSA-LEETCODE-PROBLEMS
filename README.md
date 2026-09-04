@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
