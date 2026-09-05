@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
