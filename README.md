@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
