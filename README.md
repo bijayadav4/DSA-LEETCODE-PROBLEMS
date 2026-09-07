@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
