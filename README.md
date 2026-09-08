@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
