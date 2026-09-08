@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0342-power-of-four) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
