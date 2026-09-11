@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0191-number-of-1-bits) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
