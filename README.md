@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
