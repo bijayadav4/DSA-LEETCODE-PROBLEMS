@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
