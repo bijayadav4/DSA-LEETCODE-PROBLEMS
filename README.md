@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0917-reverse-only-letters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
