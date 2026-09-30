@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1052-grumpy-bookstore-owner) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
