@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 | Problem Name | Difficulty |
