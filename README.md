@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0076-minimum-window-substring/) | Hard |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
 | [0415-add-strings](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0415-add-strings/) | Easy |
