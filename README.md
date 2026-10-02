@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 | [0844-backspace-string-compare](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -466,22 +467,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0686-repeated-string-match/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
