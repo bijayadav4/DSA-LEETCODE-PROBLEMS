@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
