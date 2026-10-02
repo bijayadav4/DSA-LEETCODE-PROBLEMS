@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
@@ -462,14 +463,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,4 +482,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
