@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0541-reverse-string-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0704-binary-search) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
@@ -502,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
