@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
