@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
