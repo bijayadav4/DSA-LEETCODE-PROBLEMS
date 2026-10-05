@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0901-online-stock-span](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0933-number-of-recent-calls) |
 ## Counting Sort
 | Problem Name | Difficulty |
