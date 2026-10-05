@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0214-shortest-palindrome](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0214-shortest-palindrome/) | Hard |
+| [0224-basic-calculator](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0326-power-of-three/) | Easy |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0326-power-of-three/) | Easy |
