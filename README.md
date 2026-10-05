@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
