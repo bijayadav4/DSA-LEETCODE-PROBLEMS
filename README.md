@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0289-game-of-life/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
