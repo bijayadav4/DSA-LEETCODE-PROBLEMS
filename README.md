@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0190-reverse-bits) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -618,4 +621,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
