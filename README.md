@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1046-last-stone-weight/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Memoization
@@ -599,9 +604,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0692-top-k-frequent-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
