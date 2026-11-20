@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
 | [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -631,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
