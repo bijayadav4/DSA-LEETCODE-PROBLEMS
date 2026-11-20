@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -639,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0480-sliding-window-median/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
