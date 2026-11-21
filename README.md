@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0435-non-overlapping-intervals/) | Medium |
