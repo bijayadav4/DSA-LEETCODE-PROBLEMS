@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
@@ -653,5 +655,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
