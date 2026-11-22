@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0224-basic-calculator/) | Hard |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -674,4 +677,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/bijayadav4/DSA-LEETCODE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
